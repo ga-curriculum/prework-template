@@ -191,7 +191,7 @@ Topic #3
 <h1 class="slide-header">Conclusion</h1>
 
 </textarea>
-
+{::nomarkdown}
   <button id="next-button" aria-label="next"><span role="img" title="Next" class="anticon"><svg viewBox="0 0 16 16"
         width="2em" height="2em" fill="currentColor" aria-hidden="true" focusable="false" class="">
         <path d="M9.3 1.3L7.9 2.7 12.2 7H0v2h12.2l-4.3 4.3 1.4 1.4L16 8z">
@@ -201,3 +201,4 @@ Topic #3
         viewBox="0 0 16 16" width="2em" height="2em" fill="currentColor" aria-hidden="true" focusable="false" class="">
         <path d="M6.7 14.7l1.4-1.4L3.8 9H16V7H3.8l4.3-4.3-1.4-1.4L0 8z"></path>
   </svg></span></button>
+{:/nomarkdown}
