@@ -1,6 +1,4 @@
-
-
- <textarea id="source">
+<textarea id="source">
 
 <h1 class="slide-header">Title</h1>
 
